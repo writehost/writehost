@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="refresh" content="5;https://dist/index.md>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
